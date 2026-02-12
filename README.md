@@ -35,6 +35,8 @@ Features:
 - FAISS
 - Streamlit
 - Git / GitHub
+  
+Live Demo Link
 
 ---
 
