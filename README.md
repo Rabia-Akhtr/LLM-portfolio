@@ -40,5 +40,5 @@ Features:
 
 ## Contact
 
-LinkedIn: (https://www.linkedin.com/in/rabia-akhtar-🇬🇧)
+LinkedIn: https://www.linkedin.com/in/rabia-akhtar-🇬🇧
 Email: rabiaakh25@gmail.com
